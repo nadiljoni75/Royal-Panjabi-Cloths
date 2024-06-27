@@ -1,0 +1,63 @@
+.socil-ico{
+	height: 30px;
+	width: 30px;
+}
+.sea-rch{
+	background-color: gray;
+	border: solid black 1px;
+}
+.sea-rch:hover {
+background-color: white;
+color:black;
+
+}
+.nav-link{color:black; border-radius: 10px;}
+.back_ground{
+	background-image: url('images/slide-2.jpg');
+	padding: 0px 0px 0px 100px;
+	background-repeat:repeat;
+	background-attachment: fixed;
+}
+
+.sub-mit{
+	background-color: skyblue;
+	float: left;
+	color: white;
+	border: none;
+	width: 100px;
+
+}
+.sub-mit:hover{
+	border: solid black 2px;
+}
+.my-logo{
+	height: 80px;
+	width: 80px;
+	border-radius: 100%;
+	margin-left: -80px;
+	margin-top: -40px;
+}
+.con-tent{
+	background-color: pink;
+	padding: 20px;
+	font-size: 30px;
+	font-weight: bold;
+	color:white;
+	text-decoration: double underline;
+
+
+}
+.but-ton{
+	margin-left: 160px;
+	background-color: pink;
+	color:white;
+	border: none;
+}
+.but-ton:hover{border: solid black 1px;}
+.ab-out{
+	border: solid black 1px;
+}
+.im-ge{
+	height: 100%;
+	width: 100%;
+}
